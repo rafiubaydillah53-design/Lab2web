@@ -22,4 +22,10 @@ Pertama membuat file `lab2_css_dasar.html` dengan struktur HTML sederhana:
 </body>
 </html>
 
+![hasil Output 1](https://raw.githubusercontent.com/rafiubaydillah53-design/Lab2web/5b679b0b247fa603725d94a7a17df86030f895db/hasil%20output%201.png)
+
+
+
+
+
 
